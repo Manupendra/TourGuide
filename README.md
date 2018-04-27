@@ -1,5 +1,5 @@
-# ShushMe
-Google Places API demo app
+# TourGuide
+Google Places and Locations API 
 
 ## Screenshots
 
